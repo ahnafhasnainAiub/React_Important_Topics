@@ -1,0 +1,17 @@
+.productList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .productCard {
+    max-width: 200px;
+  }
+  
+  .productCard img {
+    width: 100%;
+  }
+
+  .productCard p{
+    font-size: 100;
+  }

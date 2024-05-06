@@ -1,0 +1,18 @@
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.productCard {
+  max-width: 200px;
+}
+
+.productCard img {
+  width: 100%;
+}
+
+.btn-log {
+  background-color: darkkhaki;
+  border-radius: 25px;
+}
