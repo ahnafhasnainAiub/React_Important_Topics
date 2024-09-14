@@ -32,6 +32,7 @@ function Memo() {
         while(i <= 1000000000) i++; 
    
        return counter1 % 2 === 0;
+       
     }, [counter1])
     
 
